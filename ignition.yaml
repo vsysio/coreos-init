@@ -1,0 +1,6 @@
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1a0+ozgqzFlMK6AYUy6ksfH7d3PaLNOxZen4FHD9g5iVg43viu3gtd6cL+PUInxIeKvTkDLnLzyGM4VMUnm95k3tiEPcEe2L4FbBWtJNLS/Byha76rh+4jTUnSjHCU73wVWpufyeOoXHCM2yVSzJ4lcdWg8EqRD3P6SEm2T47nLtmszCqKS8Grh5QeTC3vcuKM+zQ9C8vu4sPqO0Tu954h+bK+ZdMaqc7sVz9V5X3WMEyDl6V3O/iW9h3WHpHsG+VpWHNAFkSzBvROGiRYtXQ0NqQQyQlnFHvgp55kyx81uxqTxsyXaJck7GYpBsTKnzrpONCJ5DLnhPWfsspm5er AzureAD+BrandonGould@DESKTOP-HE5OSAG
+      password_hash: $1$PNzsuXZB$RJhLknS6vIeS.XExtOxAx0
